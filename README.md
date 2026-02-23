@@ -65,4 +65,3 @@ The system supports bidirectional synchronization between the static knowledge g
 
 ---
 
-This project is developed as part of a Master's thesis focused on Agentic AI and Digital Twins.
